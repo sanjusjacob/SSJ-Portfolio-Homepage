@@ -3,6 +3,7 @@ Lindy UI Kit
 Author: UIdeck
 */
 
+/*============ SSJ's Custom CSS ============*/
 
 
 /* =========== GOOGLE FONTS ========= */
@@ -2522,8 +2523,8 @@ p {
   display: flex;
   justify-content: center;
   align-items: center;
-  width: 60px;
-  height: 60px;
+  width: 100px;
+  height:100px;
   border-radius: 50%;
   background: #ffffff;
   margin: auto;
@@ -2601,15 +2602,20 @@ p {
 }
 
 .gallery-style-2 .single-gallery .overlay .action a {
-  width: 60px;
-  height: 60px;
+  width: 100px;
+  height: 100px;
   border-radius: 50%;
-  background: #ffffff;
+  background: #FCA311;
   color: #323450;
-  font-size: 20px;
+  font-size: px;
   display: flex;
   justify-content: center;
   align-items: center;
+  text-decoration: none;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: 800;
+  color: #14213D;
+  
 }
 
 .gallery-style-2 .single-gallery .info {
