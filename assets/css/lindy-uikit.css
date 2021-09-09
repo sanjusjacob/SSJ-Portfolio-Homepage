@@ -57,7 +57,8 @@ button {
 }
 
 #myBtn:hover {
-  background-color: rgb(182, 180, 180); /* Add a dark-grey background on hover */
+  background-color: #2F80ED; /* Add a blue background on hover */
+  color: white;
 }
 
 .portfolio{
